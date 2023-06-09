@@ -55,15 +55,17 @@
 
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [Good_job](https://github.com/HV220/good-job)  |  This project is simple realisation of CRM-system using Yii2. | PHP, PostgreSql, Nginx, OOP, RBAC, Mail|
 
 <br> C/C++ Projects </br>
   📚 Frameworks, Platforms and Libraries C++:
 
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-| Project name      | Description                | Tools |
-| ------------- |:------------------------:| ------------------------:|
+| [3D_Viewer_version_1.0](https://github.com/HV220/C8_3DViewer_v1.0-0) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
+| [Smart_Calc_version_1.0](https://github.com/HV220/C7_SmartCalc_v1.0-0) | This project is about base calculater and credit ande deposti with polish notation | C, C++, Qt, Html, css, MVC, OOP |
 
  Other:
 
@@ -76,3 +78,9 @@
 <br> DevOps </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
+| [Linux](https://github.com/HV220/D01_Linux-0) | Linux |  Ubuntu 20.0, terminal, bash|
+| [Linux_Network](https://github.com/HV220/DO2_LinuxNetwork-0)| Linux | Ubunto 20.0 terminal, bash|
+| [Linux_monitoring-v1.0](https://github.com/HV220/DO3_LinuxMonitoring_v1.0-0) | Linux |  Ubuntu 20.0, terminal, bash |
+| [Linux_monitoring-v2.0](https://github.com/HV220/DO4_LinuxMonitoring_v2.0-0) | Linux |   Ubuntu 20.0, terminal, bash |
+| [Linux_Docker](https://github.com/HV220/DO5_SimpleDocker-0) | Linux | Ubunto 20.0, terminal, bash, Docker, Dockle |
+| [Linux_CICD](https://github.com/HV220/DO6_CICD-0) | Linux |  Ubuntu 20.0, terminal, bash, CICD, gitlab |
